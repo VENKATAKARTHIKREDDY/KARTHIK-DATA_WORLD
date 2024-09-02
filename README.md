@@ -32,8 +32,8 @@ I'm currently enhancing my skills in advanced analytics, machine learning, and b
 
 **Career Goals:**
 
-  I aim to leverage my analytical skills and business acumen to drive impactful decision-making processes in dynamic, data-driven organizations
+    I aim to leverage my analytical skills and business acumen to drive impactful decision-making processes in dynamic, data-driven organizations
 
 **Let’s Connect:**
 
-  I welcome the opportunity to connect on LinkedIn.
+    I welcome the opportunity to connect on LinkedIn.
