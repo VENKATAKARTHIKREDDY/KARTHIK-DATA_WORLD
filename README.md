@@ -1,4 +1,4 @@
-Hi There,
+Hi There 👋,
 
   I'm **Venkata Karthik Reddy V**,
   I am an IT professional with 2 years of experience as a Backup Administrator, now aspiring to transition into a Data Analyst role. 
