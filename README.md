@@ -12,9 +12,10 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Karthik](https://www.linkedin.com/in/vvenkatakarthikreddy/) and welcome to my GitHub profile! :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+an+Aspiring+Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer)](https://git.io/typing-svg)
 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+an+Aspiring+Data+Analyst)](https://git.io/typing-svg)
+-->
 
 [![GitHub followers](https://img.shields.io/github/followers/VENKATAKARTHIKREDDY?label=Follow&style=social)](https://github.com/VENKATAKARTHIKREDDY/?tab=follow)
 ![Gmail Badge](https://img.shields.io/badge/-venkatakarthikreddy-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vvenkatakarthikreddy999@gmail.com)
@@ -30,8 +31,7 @@
 ---------------------------------
 </div>
 
-  I am an IT professional with 2 years of experience as a Backup Administrator, now aspiring to transition into a Data Analyst role. 
-  My passion lies in transforming raw data into strategic insights that empower businesses to make informed decisions. With a strong foundation in business           analytics, digital marketing, and data science, I am eager to apply my problem-solving skills and drive impactful, data-driven strategies.
+  As a Data Engineer with 2 years of experience, I specialize in building scalable data pipelines, automating data workflows, and optimizing data storage and processing systems. I have worked extensively with SQL, Python, Apache Hadoop, Kafka, and cloud technologies to transform raw data into actionable insights. My expertise includes developing ETL processes, data warehousing, and performance tuning. I'm passionate about solving complex data challenges and continuously improving data infrastructure to support data-driven decision-making.
 
 
 
@@ -94,8 +94,6 @@
 ## Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Terminal and Shell Scripting
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
