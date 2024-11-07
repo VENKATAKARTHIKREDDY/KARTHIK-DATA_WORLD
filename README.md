@@ -31,7 +31,7 @@
 ---------------------------------
 </div>
 
-  As a Data Engineer with 2 years of experience, I specialize in building scalable data pipelines, automating data workflows, and optimizing data storage and processing systems. I have worked extensively with SQL, Python, Apache Hadoop, Kafka, and cloud technologies to transform raw data into actionable insights. My expertise includes developing ETL processes, data warehousing, and performance tuning. I'm passionate about solving complex data challenges and continuously improving data infrastructure to support data-driven decision-making.
+I am a Data Engineer focused on building robust data systems and automating data workflows to drive data-driven insights. With strong skills in SQL, Python, Apache Hadoop, Kafka, and cloud technologies, I work on developing efficient ETL pipelines, optimizing data storage, and ensuring seamless data integration. I am passionate about solving data challenges, enhancing data infrastructure, and supporting analytical decision-making. Always eager to learn and collaborate, I am excited to contribute to the evolving field of Data Engineering.
 
 
 
